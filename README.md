@@ -1,4 +1,4 @@
-# eatanoss
+# Eaternoss
 
 ## Project setup
 ```
